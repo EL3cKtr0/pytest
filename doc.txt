@@ -1,0 +1,5 @@
+Ho scaricato e installato la libreria  pytest
+Ho scoperto che bisogna per forza chiamare sia il file ".py" sia il metodo con la parola test
+Nel primo test ho semplicemente controllato se un qualsiasi numero passato alla funzione era uguale a 8
+Nel secondo invece inserisco in input 3 numeri, testo che siano effettivamente dei numeri e infine
+controllo se questi numeri possono formare i lati di un triangolo
